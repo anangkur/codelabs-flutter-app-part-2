@@ -1,6 +1,6 @@
-# codelabs_flutter_app_part_1
+# codelabs_flutter_app_part_2
 
-Codelabs Write Your First Flutter Part 1
+Codelabs Write Your First Flutter Part 2
 
 ## Getting Started
 
